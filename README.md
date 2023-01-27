@@ -1,6 +1,6 @@
-# single-cell-AI
+### single-cell related papers in recent top AI conferences/journals
 
-single-cell related papers in recent top AI conferences
+#### 2022
 
 NIPS-2022: Estimating graphical models for count data with
 applications to single-cell gene network [[Paper]](./papers/4205_estimating_graphical_models_fo.pdf)

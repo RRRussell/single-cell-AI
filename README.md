@@ -32,6 +32,8 @@ NIPS-2021: A sandbox for prediction and integration of DNA, RNA, and proteins in
 
 Bioinformatics: Biological applications of knowledge graph embedding models [[Paper]](./papers/bbaa012.pdf)
 
+Nature communications: scGNN is a novel graph neural network framework for single-cell RNA-Seq analyses [[Paper]](./papers/scGNN.pdf)
+
 ### 2020
 
 

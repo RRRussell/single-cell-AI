@@ -2,7 +2,7 @@
 
 single-cell related papers in recent top AI conferences
 
-AAAI-2022: ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations [[Paper]](./papers/20392-Article Text-24405-1-2-20220628.pdf)
+AAAI-2022: ZINB-Based Graph Embedding Autoencoder for Single-Cell RNA-Seq Interpretations [[Paper]](./papers/20392-Article_Text-24405-1-2-20220628.pdf)
 
 ICLR-2022: GRANGER CAUSAL INFERENCE ON DAGS IDENTIFIES
 GENOMIC LOCI REGULATING TRANSCRIPTION [[Paper]](./papers/2019_granger_causal_inference_on_da.pdf)
